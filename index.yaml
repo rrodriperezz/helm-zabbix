@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  zabbix:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-04T15:24:10.233338566-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 0e8e4cba278dd0c876e392e933bd65293fd8a55c026b4a8f7bbac9ace52b2f8d
+    name: zabbix
+    type: application
+    urls:
+    - zabbix-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-04T15:24:10.232568146-03:00"
